@@ -1,0 +1,3 @@
+[submodule "nat"]
+	path = nat
+	url = https://gino.bernardi@innersource.accenture.com/scm/nyl/nat.git
